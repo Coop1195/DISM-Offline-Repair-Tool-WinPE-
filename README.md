@@ -1,6 +1,4 @@
 # DISM Offline Repair Tool (WinPE)
-
-**Version:** 0.1.0  
 **Author:** Coop1195
 
 ---
