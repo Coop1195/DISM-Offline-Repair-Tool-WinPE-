@@ -54,5 +54,3 @@ DismRepairTool.bat
 
 Or check the version:
 DismRepairTool.bat --version
-
-MIT License >> LICENSE.txt
